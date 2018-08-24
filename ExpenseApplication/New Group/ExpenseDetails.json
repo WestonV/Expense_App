@@ -1,0 +1,25 @@
+ [
+  {
+  "title": "Dinner",
+  "price": "32.50",
+  "date": "June 1, 2018 18:30"
+  },
+  
+  {
+  "title": "Office Supplies",
+  "price": "59.34",
+  "date": "May 30, 2018 12:17"
+  },
+  
+  {
+  "title": "Uber",
+  "price": "16.23",
+  "date": "May 30, 2018 11:43"
+  },
+  
+  {
+  "title": "Coffee",
+  "price": "3.95",
+  "date": "May 29, 2018 8:45"
+  }
+]
